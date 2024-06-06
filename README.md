@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Yocanantham/Practice_product_preview_cards.git)
-- Live Site URL: ([https://yocanantham.github.io/Practice_blog_preview/](https://yocanantham.github.io/Practice_product_preview_cards/))
+- Live Site URL: (https://yocanantham.github.io/Practice_product_preview_cards/)
 
 ## My process
 
